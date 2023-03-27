@@ -1,0 +1,33 @@
+.product{
+    width: 300px;
+    height: 510px;
+    border: 1px solid #95A0A7;
+    border-radius: 8px;
+    position: relative;
+}
+.product img{
+    width: 285px;
+    height: 285px;
+    margin: 7px;
+    border-radius: 8px;
+}
+.product-details{
+    margin: 7px;
+}
+.product-name{
+    margin: 5px 0;
+}
+.product-details p{
+    margin: 5px 0;
+}
+.product button{
+    position: absolute;
+    background-color: #ffe0b3;
+    width: 100%;
+    border: 1px solid #95A0A7;
+    border-radius: 0 0 8px 8px;
+    bottom: 0;
+}
+.product button:hover{
+    background-color: #eba234;
+}
