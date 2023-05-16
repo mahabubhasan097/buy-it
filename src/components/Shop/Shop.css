@@ -8,3 +8,12 @@
     grid-template-columns: repeat(3, 1fr);
     gap: 45px;
 }
+.review-order-btn{
+    display: flex;
+    width: 100%;
+    justify-content: space-between;
+    background-color: rgb(212, 162, 0);
+    color: white;
+    align-items: center;
+    margin-top: 20px;
+}
